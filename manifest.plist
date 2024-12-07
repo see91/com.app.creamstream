@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/cream-stream/cream-stream-app/refs/heads/main/build/ios/ipa/cream_stream_app.ipa</string>
+                        <string>https://raw.githubusercontent.com/see91/com.app.creamstream/refs/heads/main/CreamStream_iOS.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
